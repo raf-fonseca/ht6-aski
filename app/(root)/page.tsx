@@ -23,7 +23,7 @@ function Home() {
                 {/* Welcome {user.name} */}
                 <a href="/api/auth/logout">Login</a>
                 <a href="/api/auth/login">Logout</a>
-                <p>Help me</p>
+                <p>Hello world! Welcome to Aski</p>
             </div>
         </main>
     );
