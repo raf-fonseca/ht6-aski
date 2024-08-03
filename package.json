@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tabler/icons-react": "^3.11.0",
+    "@auth0/nextjs-auth0": "^3.5.0",
     "@uploadthing/react": "^6.7.2",
     "framer-motion": "^11.3.21",
     "mongoose": "^8.5.2",
